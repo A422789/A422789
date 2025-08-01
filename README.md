@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋, I'm Ahmed Ayyad
 
-<!--
-**A422789/A422789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 From Gaza, Palestine 🇵🇸  
+📍 Currently in Pakistan 🇵🇰  
+👨‍🎓 1st-year Software Engineering student @ Riphah International University  
+💻 Frontend Web Developer | Learning React.js & aiming to be Full-Stack 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+- HTML5, CSS3, JavaScript  
+- Bootstrap  
+- Responsive Web Design  
+- Currently learning: React.js
+
+---
+
+### 🎯 Goals
+- 🌱 Becoming a Full-Stack Developer (in progress)  
+- 📚 Learning backend and databases  
+- 🤝 Open to internships and freelance opportunities
+
+---
+
+### 📬 Contact Me
+- 📧 Email: a422789255@gmail.com  
+
+
+---
+
+### ⚡ Fun Fact
+I love turning ideas into real web applications ✨ and always learning something new.
