@@ -22,11 +22,5 @@
 
 ---
 
-### 📬 Contact Me
-- 📧 Email: a422789255@gmail.com  
-
-
----
-
 ### ⚡ Fun Fact
 I love turning ideas into real web applications ✨ and always learning something new.
