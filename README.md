@@ -1,26 +1,45 @@
-# Hi there 👋, I'm Ahmed Ayyad
 
-🌍 From Gaza, Palestine 🇵🇸  
-📍 Currently in Pakistan 🇵🇰  
-👨‍🎓 1st-year Software Engineering student @ Riphah International University  
-💻 Frontend Web Developer | Learning React.js & aiming to be Full-Stack 🚀
+# Hi there, I'm Ahmed Ayyad 👋
 
----
+I'm a passionate Software Engineering student and **React.js Developer** with a strong eye for UI/UX design. I love building modern, responsive web applications and excel at turning Figma designs into clean, pixel-perfect code.
 
-### 💻 Tech Stack
-- HTML5, CSS3, JavaScript  
-- Bootstrap  
-- Responsive Web Design  
-- Currently learning: React.js
+- 🌍 Originally from **Gaza, Palestine** 🇵🇸
+- 📍 Currently based in **Pakistan** 🇵🇰
+- 👨‍🎓 Studying Software Engineering at **Riphah International University**
 
 ---
 
-### 🎯 Goals
-- 🌱 Becoming a Full-Stack Developer (in progress)  
-- 📚 Learning backend and databases  
-- 🤝 Open to internships and freelance opportunities
+## 🚀 My Tech Stack
+
+Here are some of the technologies I work with:
+
+#### 🔹 Core Technologies:
+- ⚛️ **React.js**
+- 📜 **JavaScript (ES6+)**
+- 뼈 **HTML5**
+- 🎨 **CSS3**
+
+#### 🔹 Frameworks & Libraries:
+- 💨 **Tailwind CSS**
+- 🅱️ **Bootstrap**
+
+#### 🔹 Design & Prototyping:
+- 🖌️ **Figma**
+- 🧠 **UI/UX Principles**
 
 ---
 
-### ⚡ Fun Fact
-I love turning ideas into real web applications ✨ and always learning something new.
+## 🎯 My Goals
+
+- 🌱 Expanding my skills to become a **Full-Stack Developer**.
+- 🚀 Seeking **internship** and **freelance opportunities** to contribute to real-world projects.
+- 🤝 Open to collaboration and new challenges.
+
+---
+
+> ## ⚡ Fun Fact
+>
+> I love the challenge of transforming a great idea, starting from a design, into a fully functional web application using React. ✨
+
+---
+
