@@ -21,7 +21,7 @@ Here are some of the technologies I work with:
 #### 🔹 Frameworks & Libraries:
 - 💨 **Tailwind CSS**
 - 🅱️ **Bootstrap**
-  -**MUI**
+- Ⓜ️ **Material-UI (MUI)**
 
 #### 🔹 Backend & Cloud Services:
 - 🔥 **Firebase** (Firestore, Authentication)
