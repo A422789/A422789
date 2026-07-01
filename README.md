@@ -1,5 +1,4 @@
 # Hi there, I'm Ahmed Ayyad 👋
-
 <a href="https://www.linkedin.com/in/ahmad-ayyad-608293304/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://a422789.github.io/MyProtofoilo/" target="_blank">
   <img 
@@ -8,51 +7,57 @@
   />
 </a>
 
-
-As a passionate Software Engineering student and dedicated **React.js Developer**, I thrive on transforming complex challenges into elegant, high-performance web applications. My journey isn't just about writing code; it's about architecting solutions. I've built a diverse portfolio of over 10 applications, from enterprise dashboards to full-stack e-commerce platforms, demonstrating a deep commitment to the entire development lifecycle.
+As a passionate Software Engineering student and dedicated **Full-Stack (MERN) Developer**, I thrive on transforming complex challenges into elegant, high-performance web applications. My journey isn't just about writing code; it's about architecting solutions end-to-end — from the database up to the UI. I've built a diverse portfolio of applications, from enterprise dashboards to full-stack company management systems, demonstrating a deep commitment to the entire development lifecycle.
 
 ---
 
 ### 🚀 My Core Strength & Philosophy
-
-My core strength is my versatility. I don't just use libraries; I master them. Whether architecting a pixel-perfect UI from a Figma design using **Tailwind CSS**, or rapidly building a commercial-grade app with **Material-UI (MUI )**, I choose the right tool for the job.
+My core strength is my versatility across the stack. I don't just use libraries; I master them. Whether architecting a pixel-perfect UI from a Figma design using **Tailwind CSS**, building a secure REST API with **Node.js & Express.js**, or designing a data model in **MongoDB**, I choose the right tool for the job.
 
 ---
 
 ### 🛠️ I Build Full-Stack Experiences
+My projects are a testament to this. I engineered a full-stack **Company Management System (CMS)** using the MERN stack, with a React.js frontend and a Node.js/Express.js/MongoDB backend. I also built a complete e-commerce ecosystem with a secure **Admin Panel** (featuring CRUD & **Nivo** data charts) and a client-facing **Storefront**, integrating **Firebase** for auth and a real-time Firestore database, handling state for guests (Local Storage) and users, and leveraging the **Cloudinary API** for scalable media management.
 
-My projects are a testament to this. I engineered a complete e-commerce ecosystem with a secure **Admin Panel** (featuring CRUD & **Nivo** data charts) and a client-facing **Storefront**. This involved integrating **Firebase** for auth and a real-time Firestore database, handling state for guests (Local Storage) and users, and leveraging the **Cloudinary API** for scalable media management.
-
-My expertise extends to building sophisticated components like drag-and-drop Kanban boards, full-featured calendars, and intelligent data tables. I have a profound understanding of API integration (loading/error states, async operations), as shown in my AI Chatbot project with the **Gemini API**.
+My expertise extends to building sophisticated components like drag-and-drop Kanban boards, full-featured calendars, and intelligent data tables, along with backend concerns like RESTful API design, JWT authentication, and database modeling — as shown in my AI Chatbot project with the **Gemini API**.
 
 ---
 
 ### 💻 My Tech Stack & Key Competencies
-
 *   **Frontend:** ⚛️ React.js, 📜 JavaScript, 💨 Tailwind CSS, Ⓜ️ MUI, 🅱️ Bootstrap
+*   **Backend:** 🟢 Node.js, 🚂 Express.js, 🔗 RESTful APIs, 🔐 JWT Authentication, 🧩 Middleware
+*   **Database:** 🍃 MongoDB, 🧬 Mongoose, NoSQL Database Design
+*   **Cloud & DevOps:** ☁️ Cloud-Native Development, Cloud Deployment, Agile/Scrum, TDD
 *   **Data Viz:** 📊 Nivo, 📈 Chart.js
 *   **State Management:** ⚙️ Context API, 🎣 Custom Hooks, 📝 Formik, ✅ Yup
-*   **Backend & Cloud:** 🔥 Firebase (Auth, Firestore), 🔗 REST APIs, ☁️ Cloudinary, 🤖 Gemini API
-*   **Design:** 🖌️ Figma, 🧠 UI/UX Principles
-*   **Architecture:** 📱 Responsive Design, 🎯 Pixel-Perfect Implementation
+*   **Other Cloud/Tools:** 🔥 Firebase (Auth, Firestore), ☁️ Cloudinary, 🤖 Gemini API, 🖌️ Figma
+*   **Architecture:** 📱 Responsive Design, 🎯 Pixel-Perfect Implementation, UI/UX Principles
 
 ---
 
 ### 🌟 Featured Projects
-
 Here are some of the projects I'm most proud of. You can find more in my repositories.
 
 | Project Name | Description | Live Demo | Repository |
 | :--- | :--- | :---: | :---: |
-| 🛍️ **E-Commerce Ecosystem** | A full-stack e-commerce platform with a client storefront and a powerful admin panel. | [Store](https://a422789.github.io/e-commers/ ) / [Admin](https://a422789.github.io/AdminPanal/ ) | [Store](https://github.com/A422789/e-commers ) / [Admin](https://github.com/A422789/AdminPanal ) |
-| 📊 **ProAdmin Dashboard** | An enterprise-grade dashboard with advanced data visualization, charts, and interactive components. | [Demo](https://a422789.github.io/Advance_DashBoard/ ) | [Code](https://github.com/A422789/Advance_DashBoard ) |
-| 🤖 **AI Chatbot** | A pixel-perfect clone of a modern AI chat interface, integrated with Google's Gemini API. | [Demo](https://a422789.github.io/chat-boot/ ) | [Code](https://github.com/A422789/chat-boot ) |
+| 🏢 **CMS — Company Management System** | A full-stack MERN application with a React.js frontend and a Node.js/Express.js/MongoDB backend. | — | [Code](https://github.com/A422789/FullStackProject) |
+| 🛍️ **E-Commerce Ecosystem** | A full-stack e-commerce platform with a client storefront and a powerful admin panel. | [Store](https://a422789.github.io/e-commers/) / [Admin](https://a422789.github.io/AdminPanal/) | [Store](https://github.com/A422789/e-commers) / [Admin](https://github.com/A422789/AdminPanal) |
+| 🤖 **AI Chatbot** | A pixel-perfect clone of a modern AI chat interface, integrated with Google's Gemini API. | [Demo](https://a422789.github.io/chat-boot/) | [Code](https://github.com/A422789/chat-boot) |
+
+---
+
+### 📜 Certifications
+Currently completing the **IBM JavaScript Back-End Development Professional Certificate** (Coursera), including:
+*   Node.js & MongoDB: Developing Back-End Database Applications — IBM, Jun 2026
+*   Developing Back-End Apps with Node.js and Express — IBM, Apr 2026
+*   Get Started with Cloud Native, DevOps, Agile, and NoSQL — IBM, Apr 2026
+*   JavaScript Programming Essentials — IBM, Mar 2026
+*   Getting Started with Git and GitHub — IBM, Feb 2026
 
 ---
 
 ### 🌱 What's Next
-
-A fast learner who quickly masters new technologies, I am now seeking a **freelance project** or **internship** where I can apply my broad skill set and contribute to challenging projects. Let's connect and build something amazing together!
+A fast learner who quickly masters new technologies, I am now seeking a **full-stack or backend-focused internship** where I can apply my MERN skill set and contribute to challenging, real-world applications. Let's connect and build something amazing together!
 
 <!-- Optional: Add GitHub Stats -->
 <!--
