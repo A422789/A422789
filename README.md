@@ -36,13 +36,12 @@ My expertise extends to building sophisticated components like drag-and-drop Kan
 ---
 
 ### 🌟 Featured Projects
-Here are some of the projects I'm most proud of. You can find more in my repositories.
 
-| Project Name | Description | Live Demo | Repository |
-| :--- | :--- | :---: | :---: |
-| 🏢 **CMS — Company Management System** | A full-stack MERN application with a React.js frontend and a Node.js/Express.js/MongoDB backend. | — | [Code](https://github.com/A422789/FullStackProject) |
-| 🛍️ **E-Commerce Ecosystem** | A full-stack e-commerce platform with a client storefront and a powerful admin panel. | [Store](https://a422789.github.io/e-commers/) / [Admin](https://a422789.github.io/AdminPanal/) | [Store](https://github.com/A422789/e-commers) / [Admin](https://github.com/A422789/AdminPanal) |
-| 🤖 **AI Chatbot** | A pixel-perfect clone of a modern AI chat interface, integrated with Google's Gemini API. | [Demo](https://a422789.github.io/chat-boot/) | [Code](https://github.com/A422789/chat-boot) |
+| Project | Problem → Solution → Impact | Links |
+|---|---|---|
+| 🧴 **HE Skincare — Production E-Commerce Platform** | A real client needed a bilingual storefront with secure order handling and instant order alerts. I built a hybrid auth system (JWT + sessions + token blacklisting via TTL), an admin dashboard, and a WhatsApp notification gateway with persistent session storage on Railway. Result: live in production for a paying client, fully tested (Jest, Supertest, Vitest, Cypress) with CI/CD via GitHub Actions. | [Store](https://skin-care-react-project.vercel.app) · [Admin](https://skin-care-react-project-h8cw.vercel.app) · [Code](https://github.com/A422789/SkinCareReactProject) |
+| 🗂️ **Collaborative Project Management Tool** | Real-time collaboration apps often leak sessions and suffer race conditions under concurrent writes. I engineered a hybrid auth guard (HTTP-only cookies + short-lived JWT with auto-refresh) and optimistic UI with integrity interceptors to eliminate state flickering. Result: zero session leaks, sub-200ms auth refresh, 100% core test coverage, deployed via Docker + GitHub Actions CI/CD. | [Live](https://project-management-tool-mocha.vercel.app) · [Code](https://github.com/A422789/Project-Management-Tool) |
+| 🏢 **CMS — Company Management System** | Built a full-stack MERN system to manage company records at scale, with a clean separation between client and server for long-term maintainability. | [Code](https://github.com/A422789/FullStackProject) |
 
 ---
 
