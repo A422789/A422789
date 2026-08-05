@@ -46,6 +46,7 @@ Real-time collaboration tools tend to leak sessions and glitch under concurrent 
 🔗 [Live](https://project-management-tool-mocha.vercel.app) · [Code](https://github.com/A422789/Project-Management-Tool)
 
 **🏢 Neoteric Technologies — Company Web Platform (CMS)**
+
 A company needed a website where non-technical staff could update every page — services, projects, team, blog — without touching code. I built a full CMS backend (Node/Express/MongoDB) driving a public site and an admin dashboard, with JWT auth, RBAC, and in-memory token blacklisting for secure logout. Result: seven content types manageable end-to-end from the dashboard, deployed via Railway (API) + Vercel (frontend).
 🔗 [Live](https://full-stack-project-eight-ruby.vercel.app/pages/home.html) · [Admin](https://full-stack-project-eight-ruby.vercel.app/dashboard/dashboard-login.html) · [Code](https://github.com/A422789/FullStackProject)
 ---
