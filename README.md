@@ -43,12 +43,13 @@ A live client business needed a bilingual storefront where a single security gap
 
 **🗂️ Collaborative Project Management Tool**
 Real-time collaboration tools tend to leak sessions and glitch under concurrent writes. I built a hybrid auth guard (HTTP-only cookies + auto-refreshing JWT) and an optimistic UI layer that absorbs race conditions instead of flickering. Result: zero session leaks, sub-200ms auth refresh under load, 100% coverage on core flows, shipped with Docker + GitHub Actions CI/CD.
-🔗 [Live](https://project-management-tool-mocha.vercel.app) · [Code](https://github.com/A422789/Project-Management-Tool)
+🔗 [LiveDemo](https://project-management-tool-mocha.vercel.app) · [Code](https://github.com/A422789/Project-Management-Tool)
 
 **🏢 Neoteric Technologies — Company Web Platform (CMS)**
-
 A company needed a website where non-technical staff could update every page — services, projects, team, blog — without touching code. I built a full CMS backend (Node/Express/MongoDB) driving a public site and an admin dashboard, with JWT auth, RBAC, and in-memory token blacklisting for secure logout. Result: seven content types manageable end-to-end from the dashboard, deployed via Railway (API) + Vercel (frontend).
-🔗 [Live](https://full-stack-project-eight-ruby.vercel.app/pages/home.html) · [Admin](https://full-stack-project-eight-ruby.vercel.app/dashboard/dashboard-login.html) · [Code](https://github.com/A422789/FullStackProject)
+🔗 [Company-Wepsite](https://full-stack-project-eight-ruby.vercel.app/pages/home.html) · [Admin-Wepsite](https://full-stack-project-eight-ruby.vercel.app/dashboard/dashboard-login.html) · [SourseCode](https://github.com/A422789/FullStackProject)
+
+
 ---
 
 ### 📜 Certifications
