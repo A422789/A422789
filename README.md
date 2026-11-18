@@ -1,22 +1,33 @@
 # Hi there, I'm Ahmed Ayyad 👋
 
 
-<p align="center">
+
+<p align="left">
   <a href="https://www.linkedin.com/in/ahmad-ayyad-608293304/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="LinkedIn" height="38"/>
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      height="45"
+      alt="LinkedIn"
+    />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://my-portfolio-rtte.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-292D37?style=for-the-badge&logo=vercel&logoColor=white"
-         alt="Portfolio" height="38"/>
+    <img
+      src="https://img.shields.io/badge/Portfolio-252B36?style=for-the-badge&logo=googlechrome&logoColor=white"
+      height="45"
+      alt="Portfolio"
+    />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://wa.me/201225044423">
-    <img src="https://img.shields.io/badge/WhatsApp-168B55?style=for-the-badge&logo=whatsapp&logoColor=white"
-         alt="WhatsApp" height="38"/>
+    <img
+      src="https://img.shields.io/badge/WhatsApp-176C4C?style=for-the-badge&logo=whatsapp&logoColor=white"
+      height="45"
+      alt="WhatsApp"
+    />
   </a>
 </p>
+
 
 
 I'm a Software Engineering student at Riphah International University and a **Backend-Focused Full-Stack Developer** based in Islamabad, Pakistan. I build web applications from the backend outward—from data models, REST APIs, and authentication to React interfaces, testing, and deployment. I'm currently open to hybrid internships in Islamabad and remote entry-level roles.
